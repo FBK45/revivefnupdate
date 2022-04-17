@@ -38,7 +38,7 @@ module.exports = (app, port) => {
                         "_type": "CommonUI Simple Message Base",
                         "subgame": "br",
                         "body": "Made by FNLeaks, shad0w0lf  and jack07 .\r\nDiscord: https://discord.gg/DJ6VUmD",
-                        "title": "ReviveFN",
+                        "title": "Project Blacklisted",
                         "spotlight": false
                     },
                     ],
@@ -62,8 +62,8 @@ module.exports = (app, port) => {
                         {
                             "hidden": false,
                             "_type": "CommonUI Emergency Notice Base",
-                            "title": "ReviveFN",
-                            "body": "Made by FNLeaks, shad0w0lf  and jack07 .\r\nDiscord: https://discord.gg/DJ6VUmD",
+                            "title": "Project Blacklisted",
+                            "body": "Made by FNLeaks, shad0w0lf  and jack07 .\r\nDiscord: https://discord.com/invite/zjADbUrjSf",
                         }
                     ]
                 },
@@ -79,9 +79,9 @@ module.exports = (app, port) => {
                         "tileImage": `https://raw.githubusercontent.com/FBK45/Carbon/main/uqujxr9mju581.jpg`,
                         "videoMute": false,
                         "hidden": false,
-                        "tabTitleOverride": "ReviveFN",
+                        "tabTitleOverride": "Project Blacklisted",
                         "_type": "CommonUI Simple Message MOTD",
-                        "title": "ReviveFN",
+                        "title": "Project Blacklisted",
                         "body": "shad0w0lf and jack07 are cool",
                         "videoLoop": false,
                         "videoStreamingEnabled": false,
@@ -90,7 +90,7 @@ module.exports = (app, port) => {
                         "videoAutoplay": false,
                         "videoFullscreen": false,
                         "spotlight": false,
-                        "websiteURL": "revivefnwebsite.herokuapp.com",
+                        "websiteURL": "lol.herokuapp.com",
                         "websiteButtonText": "our Website"
                     }]
                 },
